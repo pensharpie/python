@@ -4,3 +4,4 @@
 
 2/16/2024  linkedlist.py       Script demonstrates the concept of a double linked list
 
+2/xx/2024  traverseorder.py    Script demonontrates pre, post and inorder traversal

@@ -6,4 +6,4 @@
 
 2/18/2024  bubblesort.py       Script demonstrates a simple bubble sort algorithm
 
-2/xx/2024  traverseorder.py    Script demonontrates pre, post and inorder traversal
+2/18/2024  traverseorder.py    Script demonontrates Btree and pre, post and inorder traversal
